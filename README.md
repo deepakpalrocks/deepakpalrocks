@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Deepak ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px><h3 align="center">Senior Software Engineer @Magpiexyz || Knight @Leetcode (Top 5%)
+<h1 align="center">Hi, I'm Deepak ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px><h3 align="center">Senior Software Engineer @Magpiexyz || Expert @Codeforces || Rated 5 STAR @Codechef || Knight @Leetcode (Top 2% Globally)
 </h3>
  </h1>
 
