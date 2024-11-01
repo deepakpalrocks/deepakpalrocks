@@ -25,4 +25,4 @@
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
 
 [
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gajendra0180&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakpalrocks&show_icons=true&count_private=true)  
